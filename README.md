@@ -1,2 +1,35 @@
 # CSE254C - Linux Internals
-This repository contains bash script assignments for CSE254C.
+This repository contains bash script assignments for CSE254C (Linux Internals).
+
+## Index
+
+1. [Hello world](01_hello_world.sh)
+2. [Echo command](02_echo_command.sh)
+3. [Comments](03_comments.sh)
+4. [Multi-line comments](04_multi_line_comments.sh)
+5. [While loop](05_while_loop.sh)
+6. [For loop](06_for_loop.sh)
+7. [User input](07_user_input.sh)
+8. [If statements](08_if_statement.sh)
+9. [If statements with AND](09_if_with_and.sh)
+10. [If statements with OR](10_if_with_or.sh)
+11. [Else-if](11_else_if.sh)
+12. [Case statements](12_case_statement.sh)
+13. [CLI arguments](13_cli_arguments.sh)
+14. [Named CLI arguments](14_named_cli_arguments.sh)
+15. [String concatenation](15_string_concat.sh)
+16. [Substring](16_substring.sh)
+17. [Addition](17_addition.sh)
+18. [Functions](18_functions.sh)
+19. [Functions with parameters](19_functions_with_parameters.sh)
+20. [Functions with return values](20_functions_with_return_values.sh)
+21. [Make a directory](21_make_a_directory.sh)
+22. [Chech directory existence](22_directory_existence.sh)
+23. [Read file](23_read_file.sh)
+24. [Delete file](24_delete_file.sh)
+25. [Append to file](25_append_to_file.sh)
+26. [Check file existence](26_check_file_existence.sh)
+27. [Send an email](27_send_email.sh)
+28. [Parse current date](28_parse_current_date.sh)
+29. [Wait command](29_wait.sh)
+30. [Sleep command](30_sleep.sh)
