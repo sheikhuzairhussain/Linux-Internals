@@ -24,7 +24,7 @@ This repository contains bash script assignments for CSE254C (Linux Internals).
 19. [Functions with parameters](19_functions_with_parameters.sh)
 20. [Functions with return values](20_functions_with_return_values.sh)
 21. [Make a directory](21_make_a_directory.sh)
-22. [Chech directory existence](22_directory_existence.sh)
+22. [Check directory existence](22_directory_existence.sh)
 23. [Read file](23_read_file.sh)
 24. [Delete file](24_delete_file.sh)
 25. [Append to file](25_append_to_file.sh)
